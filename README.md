@@ -1,4 +1,4 @@
-# angular2-material-leaflet-app
+# Angular 2 Material Leaflet map
 
 <img width="900" src="src/public/img/s1.png" border="0" />
 
